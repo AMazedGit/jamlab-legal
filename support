@@ -1,0 +1,109 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Jam Lab Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #1f2933;
+    }
+    h1, h2 { color: #111827; }
+    a { color: #2563eb; }
+    .muted { color: #6b7280; }
+  </style>
+</head>
+<body>
+  <h1>Jam Lab Support</h1>
+
+  <p>
+    Need help with Jam Lab, want to report a bug, or have feedback about the app?
+    You can contact support by email:
+  </p>
+
+  <p>
+    <strong>Email:</strong>
+    <a href="mailto:[YOUR_SUPPORT_EMAIL]">amazedbrane@gmail.com</a>
+  </p>
+
+  <h2>What to include in your message</h2>
+
+  <p>
+    To help us understand the issue, please include:
+  </p>
+
+  <ul>
+    <li>the device you are using, such as iPhone or iPad,</li>
+    <li>your iOS or iPadOS version,</li>
+    <li>the Jam Lab app version,</li>
+    <li>a short description of what happened,</li>
+    <li>the steps to reproduce the issue, if possible.</li>
+  </ul>
+
+  <h2>Privacy</h2>
+
+  <p>
+    You can read the Jam Lab Privacy Policy here:
+    <a href="../privacy/">Privacy Policy</a>.
+  </p>
+
+  <h2>Legal Notice</h2>
+
+  <p>
+    You can read the Jam Lab Legal Notice here:
+    <a href="../legalNotice/">Legal Notice</a>.
+  </p>
+
+  <hr>
+
+  <h1>Assistance Jam Lab</h1>
+
+  <p>
+    Besoin d’aide avec Jam Lab, envie de signaler un bug ou de partager une suggestion ?
+    Vous pouvez contacter le support par e-mail :
+  </p>
+
+  <p>
+    <strong>E-mail :</strong>
+    <a href="mailto:[YOUR_SUPPORT_EMAIL]">amazedbrane@gmail.com</a>
+  </p>
+
+  <h2>Informations utiles à envoyer</h2>
+
+  <p>
+    Pour nous aider à comprendre le problème, vous pouvez préciser :
+  </p>
+
+  <ul>
+    <li>l’appareil utilisé, par exemple iPhone ou iPad,</li>
+    <li>votre version d’iOS ou d’iPadOS,</li>
+    <li>la version de l’application Jam Lab,</li>
+    <li>une courte description du problème,</li>
+    <li>les étapes pour reproduire le problème, si possible.</li>
+  </ul>
+
+  <h2>Confidentialité</h2>
+
+  <p>
+    Vous pouvez consulter la politique de confidentialité de Jam Lab ici :
+    <a href="../privacy/">Politique de confidentialité</a>.
+  </p>
+
+  <h2>Mentions légales</h2>
+
+  <p>
+    Vous pouvez consulter les mentions légales de Jam Lab ici :
+    <a href="../legalNotice/">Mentions légales</a>.
+  </p>
+
+  <p class="muted">
+    Last updated: [DATE]
+  </p>
+</body>
+</html>
