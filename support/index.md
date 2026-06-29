@@ -1,0 +1,47 @@
+Jam Lab Support
+
+Need help with Jam Lab, want to report a bug, or have feedback about the app?
+You can contact support by email:    amazedbrane@gmail.com
+
+
+  What to include in your message
+    To help us understand the issue, please include:
+    • the device you are using, such as iPhone or iPad,
+    • your iOS or iPadOS version,
+    • the Jam Lab app version,
+    • a short description of what happened,
+    • the steps to reproduce the issue, if possible.
+  
+
+Privacy
+    You can read the Jam Lab Privacy Policy here:
+https://github.com/AMazedGit/jamlab-legal/blob/main/privacy
+    
+
+Legal Notice
+    You can read the Jam Lab Legal Notice here:
+    https://github.com/AMazedGit/jamlab-legal/blob/main/legal-notice
+
+________________________________
+Assistance Jam Lab
+
+Besoin d’aide avec Jam Lab, envie de signaler un bug ou de partager une suggestion ?
+Vous pouvez contacter le support par e-mail :  amazedbrane@gmail.com
+  
+
+Informations utiles à envoyer
+Pour nous aider à comprendre le problème, vous pouvez préciser :
+
+    • l’appareil utilisé, par exemple iPhone ou iPad,
+    • votre version d’iOS ou d’iPadOS,
+    • la version de l’application Jam Lab,
+    • une courte description du problème,
+    • les étapes pour reproduire le problème, si possible.
+
+Confidentialité
+  Vous pouvez consulter la politique de confidentialité de Jam Lab ici :
+https://github.com/AMazedGit/jamlab-legal/blob/main/privacy
+  
+Mentions légales
+  Vous pouvez consulter les mentions légales de Jam Lab ici :
+https://github.com/AMazedGit/jamlab-legal/blob/main/legal-notice
